@@ -1,3 +1,4 @@
+#pragma once
 #include <ostream>
 namespace Color {
     enum Code {
